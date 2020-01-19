@@ -1,0 +1,12 @@
+### Require administrator privileges ###
+RequireAdmin
+
+### Install applications ###
+InstallChocolatey
+InstallApps
+EnableUbuntuSubSystem
+
+
+### Auxiliary Functions ###
+WaitForKey
+# Restart

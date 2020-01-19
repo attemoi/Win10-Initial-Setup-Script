@@ -1,0 +1,1 @@
+@powershell.exe -NoProfile -ExecutionPolicy Bypass -File "Win10.ps1" -include "Win10.psm1" -include "AtteExtra.psm1" -preset "AtteExtra.preset"
